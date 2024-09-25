@@ -1,0 +1,12 @@
+document.getElementById("lily").addEventListener("click",
+    function(){
+        window.location.href="project2.html";
+    });
+    document.getElementById("but").addEventListener("click",
+        function(){
+            window.location.href="project2.html";
+    });
+    document.getElementsById("dav").addEventListener("click",
+        function(){
+            window.location.href="project2.html";
+    });
